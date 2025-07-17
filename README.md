@@ -1,6 +1,6 @@
 # 💫About Me :
 👩🏻‍🎓 Studying Computer Science at the University of Engineering and Technology, Viet Nam
-👨🏻‍💻 Currently working on NCSC (National Cyber Security Center)
+👨🏻‍💻 Currently working in Seta International
 
 
 ## 🌐Socials
